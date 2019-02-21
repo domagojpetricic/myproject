@@ -12,7 +12,7 @@
               <p>
                 @{{ username }}<br><br>
                 Email: {{ email }}<br><br>
-                Adresa: <br><br>
+                Adresa: Neka adresa...<br><br>
                 Telefon: {{ phone }}<br><br>
                 www: {{ website }}
               </p>
