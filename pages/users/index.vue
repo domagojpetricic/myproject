@@ -1,7 +1,7 @@
 <template>
-  <div>
-    <h1 style="text-align: center">
-      Odaberite kontakt za prikazati
-    </h1>
-  </div>
+  <v-layout>
+    <v-flex text-xs-center>
+      <h1>ODABERITE KONTAKT</h1>
+    </v-flex>
+  </v-layout>
 </template>
